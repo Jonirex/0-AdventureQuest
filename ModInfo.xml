@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Name value="AdventureQuest" />
+  <Author value="Bowa, jns0fficial" />
+  <Description value="Mod that increases daily quest limit to 50 and increases maximum distance of quest locations. It also allows players to sort the quest list either alphabetically based on POI names or by distance to the quest locations." />
+  <DisplayName value="Adventure Quest" />
+  <Website value="" />
+  <Version value="1.1.1" />
+</xml>
