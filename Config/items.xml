@@ -12,7 +12,7 @@
 			<property name="CustomIcon" value="drugPainkillers"/> <property name="CustomIconTint" value="b0ffb0"/>
 			<property name="ItemTypeIcon" value="computer"/>
 			<property name="SellableToTrader" value="false"/>
-
+			<property name="Stacknumber" value="1"/>
 			<property name="TintColor" value="255,60,60"/>
 
 			<property class="Action0">
